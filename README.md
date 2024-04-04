@@ -24,5 +24,5 @@ Project Overview
 ## Conclusion
 This comprehensive analysis and recommendation system are designed to elevate user satisfaction and reduce subscriber churn for Netflix. By implementing content clustering and a personalized recommendation engine, the project aims to contribute to higher user retention rates. The insights gained and the system developed position Netflix to maintain its leadership in the streaming entertainment industry.
 
-### Feedback:
-bubundebata1234@gmail.com
+
+If you have any feedback, please reach out to me at omprakashdebata12@gmail.com
