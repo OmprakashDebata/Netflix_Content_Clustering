@@ -1,4 +1,4 @@
-# Netflix_Content_Clustering
+# Netflix Content Clustering (Unsupervised)
 
 ## Netflix Dataset Analysis and Recommendation System
 
